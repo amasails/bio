@@ -67,24 +67,22 @@ p {
   min-width: 200px;
 }
 
+.img-container {
+  width: 100%;
+}
+
 /* images */
 
 img {
-  width: 40%;
+  min-width: 150px;
+  width: 32%;
 }
 
-.amadeu-in-cr {
-  width: 40%;
+.sailing-nyc {
+  width: 50%;
 }
 
-.amadeu-and-friends-in-cr {
-  width: 40%;
-}
-
-.coding-in-bambuda-lodge {
-  width: 40%;
-}
-
-.coding-in-sailboat {
-  width: 40%;
+.aec1-grade,
+.aec2-grade {
+  width: 26%;
 }
